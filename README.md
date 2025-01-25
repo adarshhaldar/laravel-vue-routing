@@ -1,7 +1,7 @@
 # Guide Link
 https://medium.com/@hadarsh04/laravel-vue-routing-1a4a844978fa
 
-# Laravel + Vue.js Basic Integration
+# Laravel + Vue.js Routing
 
 This repository demonstrates the basic integration of Laravel (backend) and Vue.js (frontend) with routing to create a scalable.
 
